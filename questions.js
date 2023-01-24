@@ -9,6 +9,6 @@ function setNextQuestion () {
 
 }
 
-function selectAnswer {
+function selectAnswer () {
 
 }
