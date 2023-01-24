@@ -3,7 +3,8 @@
 # Usage 
 Although it is not currently completely finished, I created this project to generate a multiple choice quiz with Javascript-related questions. To run it, simply select the 'Start' button at the centre of the page and go through the questions. 
 
-Captura de Pantalla 2023-01-24 a las 17.44.54.png
+<img width="1436" alt="Captura de Pantalla 2023-01-24 a las 17 44 54" src="https://user-images.githubusercontent.com/118186099/214369043-45c41516-2f2f-4433-8fa2-4de0315a852b.png">
+
 
 # Authors 
 Giuliana Castillo
