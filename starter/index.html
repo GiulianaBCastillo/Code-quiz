@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-gb">
   <head>
     <meta charset="UTF-8" />
@@ -22,12 +22,20 @@
           limit. Keep in mind that incorrect answers will penalize your
           score/time by ten seconds!
         </p>
-        <button id="start" onclick="window.location.href = 'questions.js';">Start Quiz</button>
+        <button
+          id="start-btn"
+          class="start-btn"
+          onclick="window.location.href = 'questions.js';"
+        >
+          Start Quiz
+        </button>
+        <button id="next-btn" class="next-btn hide">Next</button>
       </div>
 
-      <div id="questions" class="hide">
-        <h2 id="question-title"></h2>
-        <div id="choices" class="choices"></div>
+      <div class="container">
+        <div id="question-container" class="hide">
+          <div id="question">Question</div>
+        </div>
       </div>
 
       <div id="end-screen" class="hide">
